@@ -1,0 +1,5 @@
+# Don't save node_modules
+node_modules
+.env
+
+Dockerfile.dev
